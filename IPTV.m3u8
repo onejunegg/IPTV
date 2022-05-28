@@ -1,3 +1,3 @@
 #EXTM3U8
-#EXTINF:-1 tvg-id="" group-title="",湖南卫视高清 tvg-logo="http://10.255.0.114/nn_img/prev/StarCor/vod/2/b/5/54308cfc2929b36fb797e24cf0c45212/57c90590fd58b51d62868e6f236491c5.png",
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.255.0.114/nn_img/prev/StarCor/vod/2/b/5/54308cfc2929b36fb797e24cf0c45212/57c90590fd58b51d62868e6f236491c5.png" group-title="",湖南卫视高清
 http://192.168.6.254:6254/rtp/239.76.253.101:9000
